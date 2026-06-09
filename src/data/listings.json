@@ -8,14 +8,14 @@
     "price_sgd": 418000,
     "bedrooms": 2,
     "bathrooms": 1,
-    "floor_area": 68,
+    "floor_area": 68,h
     "floor_area_unit": "sqm",
     "level": "Mid floor",
     "hdb_room_type": "3-room",
     "tenure": "HDB leasehold",
     "lease_info": "Approx. 58 years remaining",
     "status": "Available",
-    "image": "/images/hdb3-1.jpg",
+    "image": "/images/hdb3-1.png",
     "buyer_profile": "First-time buyer",
     "property_use": "Residential",
     "description": "Well-kept 3-room flat with efficient layout, bright living space and convenient access to neighbourhood amenities. Suitable for a small family, first-time buyer or right-sizing couple."
@@ -57,7 +57,7 @@
     "tenure": "HDB leasehold",
     "lease_info": "Approx. 86 years remaining",
     "status": "Available",
-    "image": "/images/hdb5-1.jpg",
+    "image": "/images/hdb5-1.png",
     "buyer_profile": "Family home",
     "property_use": "Residential",
     "description": "Large living and dining area with flexible study corner. Ideal for a growing household that wants space, storage and access to waterfront lifestyle options."
@@ -78,7 +78,7 @@
     "psf": 1686,
     "lease_info": "99-year leasehold; TOP 2018",
     "status": "Available",
-    "image": "/images/condo-rivergate-1.jpg",
+    "image": "/images/condo-rivergate-1.png",
     "buyer_profile": "Investor",
     "property_use": "Investment",
     "description": "Modern condominium unit with efficient two-bedroom layout, balcony and access to pool, gym and landscaped facilities. Strong fit for young professionals or investors."
@@ -122,7 +122,7 @@
     "conservation_status": "Conservation area",
     "zoning_use": "Commercial / residential mixed use",
     "status": "Available",
-    "image": "/images/shophouse-joochiat-1.jpg",
+    "image": "/images/shophouse-joochiat-1.png",
     "buyer_profile": "Commercial buyer",
     "property_use": "Mixed use",
     "description": "Character-rich conservation shophouse with strong street presence and flexible mixed-use potential. Suitable for boutique office, lifestyle retail or owner-occupier concept."
@@ -146,7 +146,7 @@
     "zoning_use": "Commercial",
     "lease_info": "99-year leasehold; approx. 68 years remaining",
     "status": "Available",
-    "image": "/images/shophouse-tanjongpagar-1.jpg",
+    "image": "/images/shophouse-tanjongpagar-1.png",
     "buyer_profile": "Commercial buyer",
     "property_use": "Commercial",
     "description": "Prominent CBD-fringe shophouse suited for flagship retail, hospitality, studio or corporate office use, subject to approvals. Strong walkability and business visibility."
