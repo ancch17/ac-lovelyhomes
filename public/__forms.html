@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <!--
+      This file exists only so Netlify registers the form at build time.
+      It is never shown to users.
+
+      After deployment, enable form submission email notifications in the Netlify dashboard
+      and send notifications to andrewchewch@gmail.com
+    -->
+    <form
+      name="property-enquiry"
+      method="POST"
+      data-netlify="true"
+      netlify-honeypot="bot-field"
+      hidden
+    >
+      <input type="hidden" name="form-name" value="property-enquiry" />
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="tel" name="phone" />
+      <input type="text" name="property" />
+      <input type="text" name="budget" />
+      <textarea name="message"></textarea>
+      <input type="text" name="consent" />
+      <input name="bot-field" />
+    </form>
+  </body>
+</html>
